@@ -1,3 +1,6 @@
+## coderecepi
+https://www.youtube.com/watch?v=Wbsml-sNBeU&list=PLV9zd3otBRt4CJsVZwX-gqG7kbvMTOWY2&index=9
+
 ## 강의 주제
 - ajax 다뤄보기 
 
